@@ -4,14 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Undergraduate student at CUHK(SZ), School of Science and Engineering, Dilligential College, major in Computer Engineering.  
+Thanks to Ph.D canditate LIU, I'm now doing research in AIRS Lab on campus, mainly focus on the **UAV**(Unmanned Aerial Vehicle).
+Thanks to associate research fellow LIU in ICT, CAS, I'm also get into the field of **EDA**(Electronic Design Automatic).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **UAV** control algorithm, landing system, trajectory optimization
+- **EDA** SFQ-based integrated circuit design&simulation
 
-## News
+## Readings
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
