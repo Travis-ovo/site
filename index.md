@@ -33,10 +33,12 @@ Using the Herd’s Location Information](https://ieeexplore.ieee.org/document/10
 
 ## Summary
 ### UAV
-- **[Sept. 2023]** [Weekly Report](https://github.com/Travis-ovo/UAV/blob/main/%E7%94%B0%E4%B8%80%E5%A4%AB%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E5%A4%87%E5%BF%98.xlsx)
+- **[Sept. 2023]** [Weekly Report](https://github.com/Travis-ovo/UAV/blob/main/%E7%94%B0%E4%B8%80%E5%A4%AB%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C%E5%A4%87%E5%BF%98.xlsx)  
 ### DSA
-- **[Sept. 2023]** [report1](https://github.com/Travis-ovo/DSA/blob/main/report1.pdf)
-- **[Sept. 2023]** [report2](https://github.com/Travis-ovo/DSA/blob/main/report2.pdf)
+- **[Sept. 2023]** [report1](https://github.com/Travis-ovo/DSA/blob/main/report1.pdf)  
+- **[Sept. 2023]** [report2](https://github.com/Travis-ovo/DSA/blob/main/report2.pdf)  
+
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
