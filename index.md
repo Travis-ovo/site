@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Undergraduate student at CUHK(SZ), School of Science and Engineering, Dilligential College, major in Computer Engineering.  
-Thanks to Ph.D canditate LIU, I'm now doing research in AIRS Lab on campus, mainly focus on the **UAV**(Unmanned Aerial Vehicle).  
+Thanks to Ph.D candidate LIU, I'm now doing research in AIRS Lab on campus, mainly focus on the **UAV**(Unmanned Aerial Vehicle).  
 Thanks to associate research fellow LIU in ICT, CAS, I'm also getting into the field of **DSA**(Domain Specific Architecture).  
 
 ## Research Interests
