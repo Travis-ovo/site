@@ -1,2 +1,2 @@
 # Personal academic website
-# 个人 学术 网站
+ [个人学术网站](https://yifu-tian.github.io/yifu/)
